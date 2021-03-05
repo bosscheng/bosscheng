@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **bosscheng/bosscheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosscheng)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/bosscheng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bosscheng&theme=radical&show_icons=true" alt="bosscheng's github stats" />
+</a>
+<a href="https://github.com/bosscheng" style="margin-left: 20px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosscheng&layout=compact" alt="Top Langs" />
+</a>
